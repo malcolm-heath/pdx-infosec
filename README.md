@@ -41,6 +41,7 @@ footer: an event
   + You can find information on membership [here](https://www.members.issa.org/page/join-now).
 * [Women in Cybersecurity (WiCyS) - Oregon Affiliate](https://www.wicys.org/wicys-oregon-affiliate/)
   + WiCyS is a global nonprofit community dedicated to recruiting, retaining and advancing women in cybersecurity through mentorship, technical training, professional development, thought leadership, networking and career opportunities.
+
 ## Conferences
 * [AppSec Days Pacific Northwest Conference](https://www.appsecpnw.org/)
 * [Hackboat](https://hackboat.org) (June 5th, 2026)
